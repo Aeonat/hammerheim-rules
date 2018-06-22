@@ -31,6 +31,7 @@
     - Magic of the Steppes
     - Lore of Light
     - Lore of Darkness
+    - Scrolls of the Mortuary Cult
 
 <!-- /MarkdownTOC -->
 
@@ -91,6 +92,7 @@ Forest Goblin Spells ........... Forest Goblin Shamans
 Magic of the Steppes .......... Hobgoblin Shamans
 Lore of Light ...................... Truthsayer
 Lore of Darkness ................ Dark Emissary
+Scrolls of the Mortuary Cult ..... Liche Priest
 Most wizard starts with one randomly determined spell, but
 may gain more. Roll a D6 and consult the appropriate chart.
 If you get the same spell twice, roll again or lower the spell’s
@@ -1036,3 +1038,33 @@ The Emissary conjures a dark serpent of pure malign energy to ensnare and crush 
 This spell may be cast upon a single enemy model within 6" of the caster. The model must take an immediate toughness
 test to fight off the deadly serpent. If failed the model is crushed to death and out of action. No saves of any kind will
 protect against this magic
+
+### Scrolls of the Mortuary Cult
+
+1 Menkare's Scroll of Urgency  Difficulty 6
+The Liche Priest reaches out to urge an undead warrior forward. A Single Skeleton Soldier within 
+6" may immediatly move again up to its maximum Movement distance, IE 4", if this takes it into 
+base contact with a model it counts as charging. 
+2 Horrebe's Curse of the Mummy difficulty 8 
+The Liche Priest amplifies the curse that all mummies posses and focuses it against a single 
+enemy, causing him to fail all that he attempts. A single model within 18" of the Liche Priest, that 
+is in hand-to-hand combat with a mummy has –1 to hit, -1 to wound, and –1 on armor save rolls. 
+This lasts until the start of next Tomb Guardian shooting phase. 
+3 Tawosret's Scroll of Tomb Dust difficulty 7 
+The Liche Priest can command the sand around him to assault a single warrior within 12". The 
+warrior is automatically knocked down as he chokes on the sand. This spell only affects a living 
+model. 
+4 Neferre's Scroll of Quaking Horror difficulty 8 
+The Liche Priests selects a warrior within 12" who is beset by terrible, haunting visions of his own 
+death an must pass a Leadership test or flee 2D6" directly away from the Liche Priest. The 
+warrior will continue to flee in each movement phase until he passes a rally test in the recovery 
+phase. This spell has no effect on undead models or models that are immune to Psychology. 
+5 Merneptah's Scroll of the Scarab Song difficulty 6 
+With a short stream of words, a swarm of scarabs burrow through the ground, surrounding and 
+devouring anyone in their path. A single model within 12" of the Liche Priest suffer 1D6 strength 1 
+hits. In addition, that model may not be shot at for the rest of the Tomb Guard’s shooting phase or 
+fight or be fought in hand-to-hand combat. If the model is already in hand-to-hand combat, move 
+him 1" away from the combat. The model may be attacked and attack as normal in his next turn. 
+6 Djedre’s summonation of the Vengeful Dead difficulty 5 
+The Liche Priest may return a Skeleton Soldier that went out of action to the battle, place the 
+model within 6" of the Liche Priest.
