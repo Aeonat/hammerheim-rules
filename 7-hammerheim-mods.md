@@ -54,7 +54,7 @@ Starting experience:
 
 ### Unit limits
 
-Your warband may not consist of more Core characters than it has Special, Rare, Lords, and Heroes combined.
+The combined number of Special, Rare, Lords and Heroes in your warband must not exceed the number of Core models (not including Mordheim models).
 
 The following modifiers apply: 
 - Cavalry count as 2 characters.
@@ -83,8 +83,8 @@ Warhammer Wizards function in the same way as Mordheim Wizards except:
 - Channeling dice may only be used by the wizard that generated them, and any dice that are unused by the player's next turn are wasted.
 - Miscasts are included, and cannot be re-rolled for any reason.
 - Spells that automatically target the closest enemy will not target enemies in combat.
-- One use only items can only be used once per game.
-- Bound Spell items that miscast are destroyed.
+- One use only items can only be used once per game, but are not lost.
+- Bound Spell items that miscast execute the spell and then are destroyed, without resolving the miscast effect.
 
 ## House Rules:
 
@@ -128,6 +128,16 @@ Henchmen that move into base-to-base due to failing Infighting tests will fight 
 
 Even though Henchmen normally do not gain experience, henchmen put out of action due to Infighting will give the killer's group an experience point. 
 
-###Daemons of Chaos
+### Daemons of Chaos
 
 When Horrors successfully generate more Horrors through their lore attribute, the new Horrors must form a unit with the original caster. These Horrors must remain a part of the unit with the original at all times - any who become seperated through initiative/out of actions/random happenings immediately disappear. 
+
+### Tomb Kings
+
+Warhammer Tomb Kings models with the Nehekharan Undead can be supported by the Mordheim 'Tomb Guardians' Liche Priest (who is a level 0 wizard). This allows the use of the army book without requiring a Hero. This Liche Priest therefore gains Regeneration (6+) as the army's Hierophant.
+
+### Orcs & Goblins
+
+Squigs and Squig Hoppers can drop down from any height without having to take an initiative test (Extra Bouncy!)
+
+* propose that animosity be unified; probably using the Mordheim system
